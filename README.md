@@ -1,4 +1,12 @@
-# MANDATORY READING
+# NOTICE
+
+**I have decided to cease development of em's machinedrum firmware.**
+
+**The last release is [26A09-beta](https://github.com/emuyia/ems-machinedrum-firmware/releases/tag/26A09-beta).**
+
+# em's machinedrum firmware
+
+## MANDATORY READING
 
 1. ****Please backup your projects before updating.**** This custom firmware is a work in progress, so there will be bugs, regressions, etc. and your project data could be put at risk.
 
@@ -6,7 +14,7 @@
 
 3. ****SONG slots 13-32 have been removed to make room for extended data.**** If you have anything on those slots, back them up first, or move them to slots 1-12. Any SONG data remaining in slots 13-32 ****will become corrupted on boot****. Snapshot data stored on the +DRIVE is preserved, as long as you don't overwrite it while the custom firmware is installed.
 
-# BUG REPORTS
+## BUG REPORTS
 
 If you find a bug, please [open an issue](../../issues/new?template=bug_report.md) for it. Make sure to mention which firmware version you are using. It would also be great to provide steps to reproduce the issue, if known.
 
