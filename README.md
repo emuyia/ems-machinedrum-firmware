@@ -1,9 +1,3 @@
-# NOTICE
-
-**I have decided to cease development of em's machinedrum firmware.**
-
-**The last release is [26A09-beta](https://github.com/emuyia/ems-machinedrum-firmware/releases/tag/26A09-beta).**
-
 # em's machinedrum firmware
 
 ## MANDATORY READING
